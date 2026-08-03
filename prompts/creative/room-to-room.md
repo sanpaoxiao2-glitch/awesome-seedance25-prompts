@@ -4,6 +4,16 @@
 
 一镜到底穿过六个风格完全不同的房间，主角匀速前进，每进一个房间画风就变一次。检验一镜到底 + 风格突变能力的极限用法。
 
+房间与窗外场景的参考素材，注意每个房间的建筑结构相同、氛围完全不同：
+
+| 空房间基底 | 向日葵田 | 水下 | 烟花夜空 |
+|---|---|---|---|
+| ![空房间](../../assets/refs/ref-empty-room.webp) | ![向日葵田](../../assets/refs/ref-sunflower-field.webp) | ![珊瑚礁](../../assets/refs/ref-coral-reef.webp) | ![烟花](../../assets/refs/ref-fireworks.webp) |
+
+| 毛毡风格房间 | 水下房间 | 烟花街道 |
+|---|---|---|
+| ![毛毡画家](../../assets/refs/out-felt-painter.webp) | ![水母](../../assets/refs/out-jellyfish.webp) | ![烟花街道](../../assets/refs/out-fireworks-street.webp) |
+
 ## 需要的素材
 
 无。想锁定主角形象的话传 1 张图。

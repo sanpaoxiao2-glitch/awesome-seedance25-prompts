@@ -4,6 +4,15 @@
 
 同一个人在一条片子里切换四种语言，形象、语速和情绪全程一致。用于博物馆、展会、多语市场的统一物料。
 
+![多语言口播](../../assets/clips/multilingual.webp)
+
+另一种同类用法是「一个道具串起多国场景」，每个场景的人物用当地语言说同一句话：
+
+| | | | |
+|---|---|---|---|
+| ![中国](../../assets/refs/out-china-florist.webp) | ![英国](../../assets/refs/out-uk-street.webp) | ![墨西哥](../../assets/refs/out-mexico-market.webp) | ![印尼](../../assets/refs/out-indonesia-child.webp) |
+| ![泰国](../../assets/refs/out-thai-market.webp) | ![阿拉伯](../../assets/refs/out-arabic-woman.webp) | ![巴西](../../assets/refs/out-brazil-boy.webp) | ![日本](../../assets/refs/out-japan-office.webp) |
+
 ## 需要的素材
 
 无。想锁定讲解员形象的话传 1–3 张多视角图。

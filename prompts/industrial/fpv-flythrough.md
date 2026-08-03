@@ -4,6 +4,14 @@
 
 第一人称高速穿越，一镜到底。这条的难点全在路径控制——必须把空间关系写成有序的路线，否则模型会飞着飞着掉头。
 
+![FPV 穿越效果](../../assets/clips/fpv-flythrough.webp)
+
+配合手绘航线图效果更稳。这类引导图上的红线和编号**只用来交代空间顺序，成片中不出现**：
+
+| 山谷瀑布 | 上海 | 东京 |
+|---|---|---|
+| ![山谷航线](../../assets/refs/guide-canyon-route.webp) | ![上海航线](../../assets/refs/guide-shanghai-route.webp) | ![东京航线](../../assets/refs/guide-tokyo-route.webp) |
+
 ## 需要的素材
 
 无。有航线示意图的话传 1 张，注意提示词里要写明「不要出现红线」。

@@ -94,6 +94,8 @@ PRs welcome. Format is in [CONTRIBUTING.md](./CONTRIBUTING.md) — one prompt pe
 
 Independent project, not official documentation. Capability specs and format limits are compiled from Volcano Engine's public Seedance 2.5 materials; the prose, structure and prompts are original. The model moves fast — treat the official docs as authoritative on parameters.
 
+Images and preview clips under `assets/` are likewise compiled from Volcano Engine's public materials and remain the property of their respective owners; they appear here for illustration only. See [assets/README.md](./assets/README.md).
+
 ## License
 
 [CC BY 4.0](./LICENSE) — reuse freely with attribution.

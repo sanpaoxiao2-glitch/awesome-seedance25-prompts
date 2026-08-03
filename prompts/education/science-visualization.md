@@ -4,6 +4,8 @@
 
 把抽象过程变成连续可视化，旁白与画面逐段对齐。科普账号最通用的一条。
 
+![月球形成科普](../../assets/clips/science-visualization.webp)
+
 ## 需要的素材
 
 无。

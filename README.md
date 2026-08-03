@@ -5,6 +5,13 @@
 
 [English](./README_EN.md) · [提示词公式](./docs/02-prompt-formula.md) · [提示词库](./prompts/) · [翻车排查](./docs/07-troubleshooting.md)
 
+| | | | |
+|---|---|---|---|
+| ![FPV 穿越](./assets/clips/fpv-flythrough.webp) | ![3D 动画广告](./assets/clips/3d-animated-ad.webp) | ![动作迁移](./assets/clips/motion-transfer.webp) | ![群像戏](./assets/clips/ensemble-scene.webp) |
+| [FPV 穿越](./prompts/industrial/fpv-flythrough.md) | [3D 动画广告](./prompts/ads-ecommerce/3d-animated-ad.md) | [动作迁移](./prompts/film/motion-transfer.md) | [群像戏](./prompts/film/ensemble-scene.md) |
+| ![科普可视化](./assets/clips/science-visualization.webp) | ![家居 TVC](./assets/clips/furniture-tvc.webp) | ![改年龄表情](./assets/clips/age-expression-edit.webp) | ![多语种](./assets/clips/multilingual.webp) |
+| [科普可视化](./prompts/education/science-visualization.md) | [家居 TVC](./prompts/ads-ecommerce/furniture-tvc.md) | [改年龄表情](./prompts/film/age-and-expression-edit.md) | [多语种口播](./prompts/ads-ecommerce/localization.md) |
+
 ---
 
 ## 它和上一代到底差在哪
@@ -90,6 +97,8 @@ Seedance 2.5 通过豆包 / 即梦（Dreamina）系产品和火山方舟提供�
 ## 说明
 
 本仓库为独立整理，非官方文档。能力参数、格式限制等事实信息整理自火山引擎公开的 Seedance 2.5 对客资料，提示词与写法建议为原创内容。模型迭代较快，参数以官方最新文档为准。
+
+`assets/` 下的配图与效果预览同样整理自火山引擎公开资料，版权归原权利人所有，在此仅作说明用途，详见 [assets/README.md](./assets/README.md)。
 
 ## License
 
