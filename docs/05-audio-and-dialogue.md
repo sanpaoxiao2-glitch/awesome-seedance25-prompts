@@ -124,11 +124,11 @@ Seedance 2.5 原生生成同步音频。不写声音，模型会自己配——�
 
 口型会跟着语种走，不需要额外指定。
 
-同一条预告片的两个语种版本，画面、剪辑和口型全部对齐：
+同一条预告片的多个语种版本，画面、剪辑和口型全部对齐，只有语言在变：
 
-| 英语版 | 日语版 |
-|---|---|
-| ![预告片英语版](../assets/clips/trailer-en.webp) | ![预告片日语版](../assets/clips/trailer-ja.webp) |
+| 英语版 | 日语版 | 法语版 | 去旁白版 |
+|---|---|---|---|
+| ![英语版](../assets/clips/trailer-en.webp) | ![日语版](../assets/clips/trailer-ja.webp) | ![法语版](../assets/clips/trailer-fr.webp) | ![去旁白版](../assets/clips/trailer-no-vo.webp) |
 
 **只换语言不换人**的写法更简单：
 

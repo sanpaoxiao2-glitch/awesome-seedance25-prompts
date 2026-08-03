@@ -4,11 +4,14 @@
 
 纯环境音、无台词的完整叙事段落。检验 30 秒直出能力最直接的一条——没有对白撑场，全靠画面推进和情绪连贯。
 
+![无对白叙事](../../assets/clips/letter-writing.webp)
+
 同类风格的画面参考——安静、克制、靠环境说话：
 
 | | | |
 |---|---|---|
 | ![秋日道路](../../assets/refs/out-autumn-road.webp) | ![雪后街道](../../assets/refs/out-snow-street.webp) | ![夜市](../../assets/refs/out-night-market.webp) |
+| ![小巷背影](../../assets/clips/alley-walk.webp) | ![市井生活](../../assets/clips/street-life.webp) | ![空街道](../../assets/clips/city-street-empty.webp) |
 
 ## 需要的素材
 

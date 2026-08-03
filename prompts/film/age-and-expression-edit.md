@@ -4,7 +4,9 @@
 
 画面、镜头、节奏全部不动，只改演员的年龄和微表情。一镜连续完成，五官随年龄渐变而不漂移。
 
-![年龄与表情编辑](../../assets/clips/age-expression-edit.webp)
+| 年龄与表情编辑 | 表情渐变 | 情绪特写 |
+|---|---|---|
+| ![年龄编辑](../../assets/clips/age-expression-edit.webp) | ![表情变化](../../assets/clips/expression-shift.webp) | ![含泪特写](../../assets/clips/tearful-closeup.webp) |
 
 ## 需要的素材
 

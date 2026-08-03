@@ -61,13 +61,27 @@
 杯子在画面中的位置、握持角度和光照方向保持一致，其余不变。
 ```
 
+同一段武打素材，替换服装与场景前后的对照——动作轨迹和节奏一帧没变：
+
+| 原片 | 编辑后 |
+|---|---|
+| ![武打原片](../assets/clips/fight-source.webp) | ![替换服装与场景](../assets/clips/fight-restyled.webp) |
+
+场景整体改写的例子，构图和运镜完全保留：
+
+| 原片 | 编辑后 |
+|---|---|
+| ![教堂原片](../assets/clips/church-source.webp) | ![教堂编辑后](../assets/clips/church-edited.webp) |
+
 ### 3. 新增主体
 
 在原片里加人、加道具、加特效：
 
-![新增特效：火车冲破银幕](../assets/clips/train-breakout.webp)
+一个极端例子——原片是老放映厅的黑白画面，编辑后新增了冲破银幕的蒸汽火车，同时保留了原片的手持运镜、放映厅光线和观众，并让画面在破幕瞬间从黑白转为彩色：
 
-上图是一个极端例子：原片是老放映厅的黑白画面，编辑后新增了冲破银幕的蒸汽火车，同时保留了原片的手持运镜、放映厅光线和观众。
+| 原片 | 新增特效后 |
+|---|---|
+| ![放映厅原片](../assets/clips/train-source.webp) | ![火车冲破银幕](../assets/clips/train-breakout.webp) |
 
 ```
 保持 @视频1 的人物、环境、构图与运镜完全不变，
@@ -133,9 +147,13 @@
 
 延长可以套娃。把第一次续写的结果当作新的原片，再续写下一段，这样能把一个 5 秒的镜头滚成一分钟的完整叙事。
 
+下面是同一个 5 秒镜头连续续写四次的结果，从开花一路滚到结果、种子落地：
+
 | 原片 | 第 1 次续写 |
 |---|---|
-| ![发芽原片](../assets/clips/sprout-extend-1.webp) | ![续写片段](../assets/clips/sprout-extend-2.webp) |
+| ![原片](../assets/clips/sprout-extend-1.webp) | ![第 1 次](../assets/clips/sprout-extend-2.webp) |
+| **第 2 次续写** | **第 3 次续写** |
+| ![第 2 次](../assets/clips/sprout-extend-3.webp) | ![第 3 次](../assets/clips/sprout-extend-4.webp) |
 
 ```
 第 1 次：在 @视频1 基础上续写 5 秒 —— 蜜蜂飞来落在花上，微距特写腿部沾满花粉。

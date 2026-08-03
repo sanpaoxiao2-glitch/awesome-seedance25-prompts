@@ -4,6 +4,10 @@
 
 第一人称高速穿越，一镜到底。这条的难点全在路径控制——必须把空间关系写成有序的路线，否则模型会飞着飞着掉头。
 
+| 山谷穿越 | 上海 | 东京塔 |
+|---|---|---|
+| ![山谷 FPV](../../assets/clips/fpv-valley.webp) | ![上海 FPV](../../assets/clips/fpv-shanghai.webp) | ![东京 FPV](../../assets/clips/fpv-pagoda.webp) |
+
 ![FPV 穿越效果](../../assets/clips/fpv-flythrough.webp)
 
 配合手绘航线图效果更稳。这类引导图上的红线和编号**只用来交代空间顺序，成片中不出现**：

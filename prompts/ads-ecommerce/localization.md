@@ -4,9 +4,9 @@
 
 一条母版出多国版本。镜头和节奏不变，换人种、换语言、换文案，口型跟着语种走。
 
-| 产品参考图 | 多语种口播成片 |
-|---|---|
-| ![胶囊咖啡机](../../assets/refs/ref-coffee-machine.webp) | ![多语言生成](../../assets/clips/multilingual.webp) |
+| 产品参考图 | 多语种口播成片 | UGC 风格口播 |
+|---|---|---|
+| ![胶囊咖啡机](../../assets/refs/ref-coffee-machine.webp) | ![多语言生成](../../assets/clips/multilingual.webp) | ![UGC 口播](../../assets/clips/ugc-lipstick.webp) |
 
 ## 需要的素材
 

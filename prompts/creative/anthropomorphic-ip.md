@@ -4,9 +4,9 @@
 
 把非人角色放进真实场景演戏，形象、动作和口音全程统一。IP 短片和品牌吉祥物内容的通用做法。
 
-| 拟物角色演出 | 角色设定参考 |
-|---|---|
-| ![拟人化乐队](../../assets/clips/band-mv.webp) | ![角色设定图](../../assets/refs/ref-illustrated-character.webp) |
+| 西部片橘猫 | 拟物角色演出 | 角色设定参考 |
+|---|---|---|
+| ![西部片橘猫](../../assets/clips/western-cat.webp) | ![拟人化乐队](../../assets/clips/band-mv.webp) | ![角色设定图](../../assets/refs/ref-illustrated-character.webp) |
 
 ## 需要的素材
 

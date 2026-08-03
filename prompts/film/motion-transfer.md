@@ -4,7 +4,9 @@
 
 把一段真人动作精准迁移到另一个主体身上，动作轨迹、发力节奏、身体结构对齐。这是 2.5 里少数「提示词越短越好」的场景。
 
-![动作迁移效果](../../assets/clips/motion-transfer.webp)
+| 攀爬动作迁移 | 舞蹈动作迁移 |
+|---|---|
+| ![动作迁移](../../assets/clips/motion-transfer.webp) | ![敦煌舞蹈迁移](../../assets/clips/dunhuang-dance.webp) |
 
 ## 需要的素材
 

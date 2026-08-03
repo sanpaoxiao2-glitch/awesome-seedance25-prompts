@@ -4,7 +4,13 @@
 
 30 秒直出最典型的商业用法：前半段纯影棚产品展示，后半段转生活场景。把一条广告从「只有产品」讲成「产品 + 使用故事」。
 
-![家居 TVC 效果](../../assets/clips/furniture-tvc.webp)
+这条的两段式结构在成片里长这样——前 15 秒纯白影棚，后 15 秒暖光客厅：
+
+| 前半段 · 影棚 | 后半段 · 客厅 |
+|---|---|
+| ![影棚产品展示](../../assets/clips/sofa-studio.webp) | ![暖光客厅](../../assets/clips/living-room.webp) |
+
+![家居 TVC 完整效果](../../assets/clips/furniture-tvc.webp)
 
 ## 需要的素材
 

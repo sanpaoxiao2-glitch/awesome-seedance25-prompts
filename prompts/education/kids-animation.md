@@ -4,7 +4,9 @@
 
 风格化插画配合旁白逐句展开。重点在于风格描述要具体到颜料和材质，否则容易滑向廉价卡通。
 
-![石榴丝路科普动画](../../assets/clips/kids-animation.webp)
+| 岩彩长卷风格 | 黏土定格风格 |
+|---|---|
+| ![石榴丝路动画](../../assets/clips/kids-animation.webp) | ![货币演变定格](../../assets/clips/claymation-history.webp) |
 
 ## 需要的素材
 
